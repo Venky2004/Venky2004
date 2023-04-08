@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e746492-9898-4c9e-b0ee-324b8104ee98/d4ohpef-695e3015-876c-4cd7-8d54-41ca5b8ccf95.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNzQ2NDkyLTk4OTgtNGM5ZS1iMGVlLTMyNGI4MTA0ZWU5OFwvZDRvaHBlZi02OTVlMzAxNS04NzZjLTRjZDctOGQ1NC00MWNhNWI4Y2NmOTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Ds6m9woewr3-ml9bhRBIpDi27cWRM0FM6YRKlzJido">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venky2004&label=Profile%20views&color=0e75b6&style=flat" alt="venky2004" /> </p>
 
