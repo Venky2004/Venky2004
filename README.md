@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **Spring Boot**
 - 💬 Ask me about **HTML,CSS,JS,React JS,Django**
 - 📫 How to reach me **venkatasairamreddy0404@gmail.com**
-- 👨‍💻 All of my projects are available at **https://lucifervenky.netlify.app/**
-- 📄 Know about my experiences **https://lucifervenky.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://venky2k4.netlify.app/**
+- 📄 Know about my experiences **https://venky2k4.netlify.app/**
 - ⚡ Fun fact **HTML is a Programming Language**
 
 <div> <a href="https://www.linkedin.com/in/venkata-sai-ram-reddy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
